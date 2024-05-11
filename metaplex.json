@@ -1,0 +1,14 @@
+{
+  "name": "Cwallet Coin",
+  "symbol": "CC",
+  "description": "Stablecoin of Cwallet Ecosystem",
+  "image": "https://resource.cctip.io/token/CC.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://resource.cctip.io/token/CC.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
