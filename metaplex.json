@@ -3,6 +3,7 @@
   "symbol": "CC",
   "description": "Stablecoin of Cwallet Ecosystem",
   "image": "https://resource.cctip.io/token/CC.png",
+  "seller_fee_basis_points": 0,
   "properties": {
     "files": [
       {
